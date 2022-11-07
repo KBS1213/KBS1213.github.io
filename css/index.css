@@ -1,7 +1,14 @@
+body{
+    background-color: #fff9ef;
+}
+
+.rep-cls{
+    background-color: #ffd6dd;
+}
 th{
-    color: blue;
+    color: #000080;
 }
 
 .hate {
-    color: firebrick;
+    color: #d50000;
 }
