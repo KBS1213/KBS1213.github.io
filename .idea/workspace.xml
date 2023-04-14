@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9fe1c04-c3a9-476a-a2f5-14bc2774a44e" name="Changes" comment="下學期第一次練習(又再更改">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/123.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JV83GmaQzU6QrqF6pJmMomb5PZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9fe1c04-c3a9-476a-a2f5-14bc2774a44e" name="Changes" comment="" />
+      <created>1672151693202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672151693202</updated>
+      <workItem from="1672151699645" duration="4233000" />
+      <workItem from="1672894097641" duration="4111000" />
+      <workItem from="1673278854277" duration="3826000" />
+      <workItem from="1673283200528" duration="1893000" />
+      <workItem from="1677642743200" duration="1579000" />
+      <workItem from="1681487484544" duration="1285000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一部分">
+      <created>1672153475089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672153475089</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第二次">
+      <created>1672157705375</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672157705375</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第三次">
+      <created>1672898520990</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672898520990</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第四次">
+      <created>1673279165430</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673279165430</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第五次">
+      <created>1673280879072</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673280879072</updated>
+    </task>
+    <task id="LOCAL-00006" summary="第六次">
+      <created>1673282658975</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673282658975</updated>
+    </task>
+    <task id="LOCAL-00007" summary="第七次">
+      <created>1673284218061</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673284218061</updated>
+    </task>
+    <task id="LOCAL-00008" summary="下學期第一次練習">
+      <created>1677643016146</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677643016146</updated>
+    </task>
+    <task id="LOCAL-00009" summary="下學期第一次練習(刪除舊檔">
+      <created>1677643768626</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677643768626</updated>
+    </task>
+    <task id="LOCAL-00010" summary="下學期第一次練習(刪除舊檔案">
+      <created>1677643877840</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677643877840</updated>
+    </task>
+    <task id="LOCAL-00011" summary="下學期第一次練習(又再更改">
+      <created>1677644052260</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1677644052260</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一部分" />
+    <MESSAGE value="第二次" />
+    <MESSAGE value="第三次" />
+    <MESSAGE value="第四次" />
+    <MESSAGE value="第五次" />
+    <MESSAGE value="第六次" />
+    <MESSAGE value="第七次" />
+    <MESSAGE value="下學期第一次練習" />
+    <MESSAGE value="下學期第一次練習(刪除舊檔" />
+    <MESSAGE value="下學期第一次練習(刪除舊檔案" />
+    <MESSAGE value="下學期第一次練習(又再更改" />
+    <option name="LAST_COMMIT_MESSAGE" value="下學期第一次練習(又再更改" />
+  </component>
+</project>
