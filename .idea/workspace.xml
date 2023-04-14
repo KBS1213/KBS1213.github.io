@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9fe1c04-c3a9-476a-a2f5-14bc2774a44e" name="Changes" comment="下學期第一次練習(又再更改">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/123.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="e9fe1c04-c3a9-476a-a2f5-14bc2774a44e" name="Changes" comment="置入模板">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +58,7 @@
       <workItem from="1673278854277" duration="3826000" />
       <workItem from="1673283200528" duration="1893000" />
       <workItem from="1677642743200" duration="1579000" />
-      <workItem from="1681487484544" duration="1285000" />
+      <workItem from="1681487484544" duration="3685000" />
     </task>
     <task id="LOCAL-00001" summary="第一部分">
       <created>1672153475089</created>
@@ -140,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677644052260</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="置入模板">
+      <created>1681488976641</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1681488976641</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +173,7 @@
     <MESSAGE value="下學期第一次練習(刪除舊檔" />
     <MESSAGE value="下學期第一次練習(刪除舊檔案" />
     <MESSAGE value="下學期第一次練習(又再更改" />
-    <option name="LAST_COMMIT_MESSAGE" value="下學期第一次練習(又再更改" />
+    <MESSAGE value="置入模板" />
+    <option name="LAST_COMMIT_MESSAGE" value="置入模板" />
   </component>
 </project>
