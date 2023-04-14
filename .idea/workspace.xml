@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9fe1c04-c3a9-476a-a2f5-14bc2774a44e" name="Changes" comment="置入模板">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="e9fe1c04-c3a9-476a-a2f5-14bc2774a44e" name="Changes" comment="刪除連結" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +55,7 @@
       <workItem from="1673278854277" duration="3826000" />
       <workItem from="1673283200528" duration="1893000" />
       <workItem from="1677642743200" duration="1579000" />
-      <workItem from="1681487484544" duration="3685000" />
+      <workItem from="1681487484544" duration="4194000" />
     </task>
     <task id="LOCAL-00001" summary="第一部分">
       <created>1672153475089</created>
@@ -144,7 +141,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681488976641</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="將主要的字改好">
+      <created>1681491253844</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1681491253844</updated>
+    </task>
+    <task id="LOCAL-00014" summary="刪除連結">
+      <created>1681491344789</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1681491344789</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +185,8 @@
     <MESSAGE value="下學期第一次練習(刪除舊檔案" />
     <MESSAGE value="下學期第一次練習(又再更改" />
     <MESSAGE value="置入模板" />
-    <option name="LAST_COMMIT_MESSAGE" value="置入模板" />
+    <MESSAGE value="將主要的字改好" />
+    <MESSAGE value="刪除連結" />
+    <option name="LAST_COMMIT_MESSAGE" value="刪除連結" />
   </component>
 </project>
